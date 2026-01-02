@@ -29,4 +29,14 @@
   font-weight: bold;
   font-family: Arial, sans-serif;
   text-decoration: none;
+  border-radius: 5px;
+}
+.nav-links a:hover {
+  color: gray;
+  text-decoration: underline;
+  text-underline-offset: 1rem;
+}
+* {
+  margin: 0;
+  padding: 0;
 }
