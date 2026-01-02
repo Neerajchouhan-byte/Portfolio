@@ -1,2 +1,2 @@
 # Portfolio
-This is my Portfolio v1
+A modern, responsive portfolio website built to showcase my frontend skills and projects.
