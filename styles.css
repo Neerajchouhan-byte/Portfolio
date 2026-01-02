@@ -1,0 +1,32 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  padding: 35px;
+  height: 25px;
+  margin: 20px;
+}
+.logo {
+  color: black;
+  font-size: 2.5rem;
+  font-weight: bold;
+  font-family: monospace;
+  margin-right: auto;
+  padding-left: 135px;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 40px;
+  margin-right: 135px;
+  align-items: end;
+}
+.nav-links a {
+  color: black;
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+  text-decoration: none;
+}
